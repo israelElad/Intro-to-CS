@@ -1,0 +1,87 @@
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+----------
+Name: a
+ID: 1
+----------
+Name: b
+ID: 2
+----------
+Name: c
+ID: 3
+----------
+Are you late? (0|1)
+Insert your best friend's ID:
+Name:
+ID:
+Num of kids:
+Are you late? (0|1)
+Insert your best friend's ID:
+No Such ID: 8
+Are you late? (0|1)
+Insert your best friend's ID:
+Name:
+ID:
+Num of kids:
+Are you late? (0|1)
+Insert your best friend's ID:
+Name:
+ID:
+Num of kids:
+Are you late? (0|1)
+----------
+Name: a
+ID: 1
+----------
+Name: d
+ID: 4
+----------
+Name: f
+ID: 6
+----------
+Name: b
+ID: 2
+----------
+Name: c
+ID: 3
+----------
+Name: e
+ID: 5
+----------
+Is there a coward in here? (0|1)
+Insert your ID, you, lame pudding-heart coward:
+Let the world know that you are a coward, b!
+Is there a coward in here? (0|1)
+Insert your ID, you, lame pudding-heart coward:
+No Such ID: 2
+Is there a coward in here? (0|1)
+Insert your ID, you, lame pudding-heart coward:
+Let the world know that you are a coward, a!
+Is there a coward in here? (0|1)
+Insert your ID, you, lame pudding-heart coward:
+Let the world know that you are a coward, c!
+Is there a coward in here? (0|1)
+----------
+Name: d
+ID: 4
+----------
+Name: f
+ID: 6
+----------
+Name: e
+ID: 5
+----------
+d kills f
+e kills d
+Ah, ha, ha, ha, stayin' alive, stayin' alive! Ah, ha, ha, ha, "e" stayin' alive!

@@ -1,0 +1,52 @@
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+----------
+Name: a
+ID: 1
+----------
+Name: b
+ID: 2
+----------
+Name: c
+ID: 3
+----------
+----------
+Name: aa
+ID: 11
+----------
+Name: bb
+ID: 22
+----------
+Name: cc
+ID: 33
+----------
+a kills b
+c kills a
+Ah, ha, ha, ha, stayin' alive, stayin' alive! Ah, ha, ha, ha, "c" stayin' alive!
+aa kills bb
+cc kills aa
+Ah, ha, ha, ha, stayin' alive, stayin' alive! Ah, ha, ha, ha, "cc" stayin' alive!

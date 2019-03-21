@@ -1,0 +1,148 @@
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Kid #2 name:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Kid #2 name:
+Kid #3 name:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Kid #2 name:
+Kid #3 name:
+Kid #4 name:
+Kid #5 name:
+Kid #6 name:
+Kid #7 name:
+Kid #8 name:
+Kid #9 name:
+Add a person to the game? (0|1)
+----------
+Name: Nobody
+ID: 1000
+----------
+Name: Snape
+ID: 37
+Kid #1: p
+Kid #2: q
+----------
+Name: Harry
+ID: 777
+Kid #1: James
+Kid #2: Albus
+Kid #3: Lily
+----------
+Name: Dumbledore
+ID: 100
+----------
+Name: James
+ID: 10
+Kid #1: Harry
+----------
+Name: Voldemort
+ID: 1
+Kid #1: Barty
+Kid #2: Bellatrix
+Kid #3: Salazar
+Kid #4: Lucius
+Kid #5: Crabbe
+Kid #6: Goile
+Kid #7: Avery
+Kid #8: Nagini
+Kid #9: Horcruxes
+----------
+----------
+Name: Dumbledore
+ID: 100
+----------
+Name: Harry
+ID: 777
+Kid #1: James
+Kid #2: Albus
+Kid #3: Lily
+----------
+Name: James
+ID: 10
+Kid #1: Harry
+----------
+Name: Nobody
+ID: 1000
+----------
+Name: Snape
+ID: 37
+Kid #1: p
+Kid #2: q
+----------
+Name: Voldemort
+ID: 1
+Kid #1: Barty
+Kid #2: Bellatrix
+Kid #3: Salazar
+Kid #4: Lucius
+Kid #5: Crabbe
+Kid #6: Goile
+Kid #7: Avery
+Kid #8: Nagini
+Kid #9: Horcruxes
+----------
+----------
+Name: Voldemort
+ID: 1
+Kid #1: Barty
+Kid #2: Bellatrix
+Kid #3: Salazar
+Kid #4: Lucius
+Kid #5: Crabbe
+Kid #6: Goile
+Kid #7: Avery
+Kid #8: Nagini
+Kid #9: Horcruxes
+----------
+Name: James
+ID: 10
+Kid #1: Harry
+----------
+Name: Snape
+ID: 37
+Kid #1: p
+Kid #2: q
+----------
+Name: Dumbledore
+ID: 100
+----------
+Name: Harry
+ID: 777
+Kid #1: James
+Kid #2: Albus
+Kid #3: Lily
+----------
+Name: Nobody
+ID: 1000
+----------
+Voldemort kills James and Harry
+Snape kills Dumbledore
+Harry kills Nobody
+Voldemort kills Snape and p and q
+Harry kills Voldemort and Barty and Bellatrix and Salazar and Lucius and Crabbe and Goile and Avery and Nagini and Horcruxes
+Ah, ha, ha, ha, stayin' alive, stayin' alive! Ah, ha, ha, ha, "Harry" stayin' alive!

@@ -1,0 +1,36 @@
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Kid #2 name:
+Kid #3 name:
+Add a person to the game? (0|1)
+Name:
+ID:
+Num of kids:
+Kid #1 name:
+Kid #2 name:
+Add a person to the game? (0|1)
+----------
+Name: a
+ID: 1
+----------
+Name: b
+ID: 2
+Kid #1: p
+Kid #2: q
+Kid #3: r
+----------
+Name: c
+ID: 3
+Kid #1: q
+Kid #2: r
+----------
+a kills b and p and q and r
+c kills a
+Ah, ha, ha, ha, stayin' alive, stayin' alive! Ah, ha, ha, ha, "c" stayin' alive!
